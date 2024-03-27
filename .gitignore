@@ -1,0 +1,9 @@
+assets/
+# Ignore vim files:
+*~
+*.swp
+*.swo
+# Ignore testing jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
